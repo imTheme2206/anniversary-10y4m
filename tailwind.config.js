@@ -17,9 +17,9 @@ export default {
         line: '#E2D6BE',
       },
       fontFamily: {
-        display: ['"Fraunces"', 'ui-serif', 'Georgia', 'serif'],
-        body: ['"Inter"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-        hand: ['"Caveat"', 'cursive'],
+        display: ['"Fraunces"', '"Mali"', 'ui-serif', 'Georgia', 'serif'],
+        body: ['"Inter"', '"Mitr"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        hand: ['"Caveat"', '"Itim"', 'cursive'],
       },
       height: {
         dvh: '100dvh',

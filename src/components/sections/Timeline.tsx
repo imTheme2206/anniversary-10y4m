@@ -120,7 +120,7 @@ export function Timeline() {
                 {/*<SectionLabel className="mb-2 block">
                   {chapter.label}
                 </SectionLabel>*/}
-                <h3 className="text-balance font-display text-3xl leading-[1.02] text-ink min-[360px]:text-4xl md:text-6xl">
+                <h3 className="text-balance font-display text-xl leading-[1.02] text-ink min-[360px]:text-2xl md:text-6xl">
                   {chapter.title}
                 </h3>
                 {/*<details className="group/memory mt-5 max-w-sm border-t border-line/80 pt-1">
